@@ -1,0 +1,3 @@
+interface:
+  display_name: "LinkedIn Lead Verification"
+  short_description: "Audit existing LinkedIn lead URLs accurately"
