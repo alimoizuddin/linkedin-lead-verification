@@ -9,6 +9,8 @@ Audit existing LinkedIn profile URLs with high precision. The desired outcome is
 
 Use this skill for profile-link verification in a spreadsheet or lead list. Use `finding-linkedin-id` as well when the user asks to discover or replace incorrect URLs.
 
+For pipeline work, preserve the exact four-column schema and order: `Name`, `Company`, `Position`, `LinkedIn URL`.
+
 ## Scope And Setup
 
 1. Read the source workbook or lead list first. Identify the name, company, role, and LinkedIn URL fields, and preserve the original row references.
